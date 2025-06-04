@@ -2,7 +2,7 @@
 
 ## DataFest 2025 - UCLA Project
 
-This repository contains the analysis and predictive modeling work completed during DataFest 2025 at UCLA. Our team developed a machine learning approach to predict markets with high probability for future healthcare leasing activity.
+This repository contains the analysis and predictive modeling work completed during DataFest 2025 at UCLA. Our team developed a machine learning approach to predict markets with high probability for future healthcare leasing activity. We're proud to have been selected as one of the finalists to present our work at the competition.
 
 ## Project Overview
 
